@@ -2,6 +2,8 @@
 
 [Spielanleitung S. 42](https://amagino.ch/media/33/d4/b7/1604342770/Gloomhaven%20Spielanleitung_DE.pdf)
 
+Neue Charaktere können nur in der Stadt erstellt werden.
+
 * Wähle eine freigeschaltete Klasse (man kann eine Klasse nicht doppelt in einem Scenario spielen) \[[S. 6](https://amagino.ch/media/33/d4/b7/1604342770/Gloomhaven%20Spielanleitung_DE.pdf)]. Wenn das Spiel ausgepackt wird, stehen zu Beginn sechs Klassen zur Verfügung: Barbar, Tüftler, Spruchweberin, Schurkin, Felsenherz und Gedankendiebin.
 * Wähle ein Name für den Charakter aus.
 * Wähle eine Startstufe. Die Startstufe kann von 1 bis maximal der Wohlstandstufe der Stadt. Das wird initial immer Stufe 1 sein.
